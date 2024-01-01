@@ -2,10 +2,13 @@
 ##
 ### Step 1 - Create the First VPC:
 In the VPC dashboard, click on "Create VPC."
-![image1.png][Lab4-VPC_Peering_OneRegion/images/image1.png]
+
+![image1.png] (Lab4-VPC_Peering_OneRegion/images/image1.png)
+
 Enter a name for your VPC (my-vpc-01)and specify the IPv4 CIDR block (10.0.0.0/16).
 You can leave the rest of the settings as default or configure them based on your requirements.
 Click on "Create VPC"
+
 ![image2][images/image2.png]
 
 ### Step  -Create the Second VPC:
